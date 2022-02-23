@@ -4,5 +4,5 @@ Capacity is a program that allows users to check that a section has enough seats
 
 To run this project:
 
-build.sh
-run.sh
+sh build.sh
+sh run.sh
